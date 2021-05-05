@@ -1,6 +1,9 @@
 GitHub repo: link
 Netlify: link
 
+umumiy-sozlamalar: 
+
+
 Site-header
 Start
 Finish
