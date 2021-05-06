@@ -1,27 +1,60 @@
-GitHub repo: link
+GitHub repo: https://github.com/Shukurjonov/executive-study
 Netlify: link
 
 umumiy-sozlamalar: 
-
+Start: 12:10
+Finish: 12:30
+20 min
 
 Site-header
-Start
-Finish
+Start: 12:30
+Finish: 12:57
+30 min
 
 Hero
-Start
-Finish
+Start: 13:00
+Finish: 14:00
+60 min
 
 Universities
-Start
-Finish
+Start: 14:00
+Finish: 15:00
+60 min
 
 Services
-Start
-Finish
+Start: 15:00
+Finish: 16:00
+60 min
 
 News
-Start
-Finish
+Start: 11:00
+Finish: 11:40
+40 min
 
-Total time - N soat M daqiqa
+events 
+Start: 11:40
+Finish: 12:20
+40min
+
+Countries
+Start: 12:20
+Finish: 12:40 
+20 main
+
+Testimonial 
+Start: 12:40
+Finish: 13:20
+40 min
+
+Main-footer 
+Start: 13:20
+Finish: 13:30
+10 min
+
+Footer 
+Start: 13:35
+Finish: 14:00
+25 min
+
+
+Total time - 6 soat 45 daqiqa
