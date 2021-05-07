@@ -153,6 +153,8 @@ img {
 }
 
 .sitenav__list {
+  margin: 0;
+  padding: 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -270,6 +272,7 @@ img {
   color: #7d7d7d;
   font-size: 22px;
   line-height: 38px;
+  margin-top: 0;
   margin-bottom: 42px;
 }
 
@@ -350,6 +353,7 @@ img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  align-items: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
@@ -372,6 +376,7 @@ img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  align-items: center;
   margin-bottom: 100px;
 }
 
@@ -661,7 +666,7 @@ img {
 }
 
 .news .btn {
-  margin-bottom: 20px;
+  margin-bottom: 0;
 }
 
 /* EVENTS */
@@ -834,6 +839,27 @@ img {
 
 .countries__item {
   width: 348px;
+}
+
+.countries__item:before{
+  content: "";
+  display: inline-block;
+  width: 348px;
+  height: 215px;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.australia::before {
+  background-image: url("../img/australia.png");
+}
+
+.canada::before {
+  background-image: url("../img/canada.png");
+}
+
+.uk::before {
+  background-image: url("../img/uk.png");
 }
 
 .country-item__title {
